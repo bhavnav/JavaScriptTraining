@@ -1,1 +1,1 @@
-# quick-sort
+# Native JS
