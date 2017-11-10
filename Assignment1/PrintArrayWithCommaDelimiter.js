@@ -1,5 +1,5 @@
-function printArray(array){
-  var result;
-  result = array.join();
-  return result;
+function printArray(array) {
+    var result;
+    result = array.join();
+    return result;
 }
